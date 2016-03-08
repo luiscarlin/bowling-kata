@@ -1,3 +1,5 @@
+package com.luiscarlin;
+
 public class BowlingGame {
 
 	private final int NUMBER_OF_FRAMES = 10;

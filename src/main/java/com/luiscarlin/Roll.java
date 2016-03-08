@@ -1,3 +1,4 @@
+package com.luiscarlin;
 
 public class Roll {
 	private int numberPinsDown; 
